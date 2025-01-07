@@ -1,6 +1,6 @@
-#**Titanic Dataset Analysis**
+# **Titanic Dataset Analysis**
 
-##Project Summary
+## Project Summary
 
 This project aims to analyze the Titanic dataset to explore survival rates based on factors such as gender, passenger class, and age. The analysis seeks to identify patterns and insights that influenced survival during the Titanic disaster.
 
